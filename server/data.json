@@ -1,0 +1,46 @@
+{
+  "ka": [
+    {
+      "id": 1,
+      "type": "green",
+      "money": 29,
+      "date": "2018-05-26T11:35:49 -08:00",
+      "userFor": "drinks"
+    },
+    {
+      "id": 2,
+      "type": "income",
+      "money": 287,
+      "date": "2022-11-09T05:33:58 -08:00",
+      "userFor": "salary"
+    },
+    {
+      "id": 3,
+      "type": "pay",
+      "money": -74,
+      "date": "2017-02-07T07:39:13 -08:00",
+      "userFor": "drinks"
+    },
+    {
+      "id": 4,
+      "type": "pay",
+      "money": 287,
+      "date": "2019-08-20T08:15:28 -08:00",
+      "userFor": "bouns"
+    },
+    {
+      "id": 5,
+      "type": "green",
+      "money": 286,
+      "date": "2015-10-10T12:07:12 -08:00",
+      "userFor": "dessert"
+    },
+    {
+      "id": 6,
+      "type": "green",
+      "money": 10,
+      "date": "2021-03-06T12:39:05 -08:00",
+      "userFor": "longdistance"
+    }
+  ]
+}
