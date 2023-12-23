@@ -4556,6 +4556,34 @@
       "money": 296,
       "date": "2019-05-26 06:06:07",
       "userFor": "dessert"
+    },
+    {
+      "type": "pay",
+      "money": -234,
+      "date": "2023-12-23T18:00:30.175Z",
+      "useFor": "audio",
+      "id": 652
+    },
+    {
+      "type": "income",
+      "money": 888,
+      "date": "2023-12-23T18:01:17.182Z",
+      "useFor": "overtimepay",
+      "id": 653
+    },
+    {
+      "type": "pay",
+      "money": -1220,
+      "date": "2023-12-23T18:02:33.871Z",
+      "useFor": "bodybuilding",
+      "id": 654
+    },
+    {
+      "type": "income",
+      "money": 99,
+      "date": "2023-12-23T18:04:41.558Z",
+      "useFor": "",
+      "id": 655
     }
   ]
 }
