@@ -2,45 +2,829 @@
   "ka": [
     {
       "id": 1,
-      "type": "pay",
-      "money": -75,
-      "date": "2014-12-09 03:27:07",
-      "userFor": "salary"
+      "type": "green",
+      "money": 183,
+      "date": "2022-12-11 02:50:44",
+      "userFor": "dessert"
     },
     {
       "id": 2,
-      "type": "pay",
-      "money": 226,
-      "date": "2021-04-29 06:12:06",
-      "userFor": "salary"
+      "type": "green",
+      "money": 27,
+      "date": "2015-08-07 11:27:41",
+      "userFor": "longdistance"
     },
     {
       "id": 3,
-      "type": "income",
-      "money": 176,
-      "date": "2022-06-03 01:43:16",
-      "userFor": "dessert"
+      "type": "green",
+      "money": 210,
+      "date": "2021-07-21 07:36:43",
+      "userFor": "food"
     },
     {
       "id": 4,
       "type": "green",
-      "money": 16,
-      "date": "2022-02-13 03:35:16",
+      "money": 59,
+      "date": "2019-02-22 08:16:10",
       "userFor": "drinks"
     },
     {
       "id": 5,
       "type": "pay",
-      "money": 188,
-      "date": "2023-01-12 09:15:13",
-      "userFor": "food"
+      "money": -86,
+      "date": "2019-07-30 03:34:03",
+      "userFor": "bouns"
     },
     {
       "id": 6,
-      "type": "green",
-      "money": 249,
-      "date": "2017-08-01 01:09:27",
+      "type": "pay",
+      "money": 121,
+      "date": "2017-01-07 08:21:19",
+      "userFor": "food"
+    },
+    {
+      "id": 7,
+      "type": "income",
+      "money": 264,
+      "date": "2021-01-30 09:33:59",
+      "userFor": "bouns"
+    },
+    {
+      "id": 8,
+      "type": "pay",
+      "money": 106,
+      "date": "2022-04-25 02:41:03",
       "userFor": "salary"
+    },
+    {
+      "id": 9,
+      "type": "income",
+      "money": -55,
+      "date": "2023-04-30 08:38:44",
+      "userFor": "bouns"
+    },
+    {
+      "id": 10,
+      "type": "green",
+      "money": -97,
+      "date": "2021-02-04 06:01:32",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 11,
+      "type": "pay",
+      "money": 89,
+      "date": "2022-10-29 02:29:15",
+      "userFor": "salary"
+    },
+    {
+      "id": 12,
+      "type": "green",
+      "money": -19,
+      "date": "2020-01-20 05:43:21",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 13,
+      "type": "pay",
+      "money": 103,
+      "date": "2022-08-18 04:03:51",
+      "userFor": "bouns"
+    },
+    {
+      "id": 14,
+      "type": "income",
+      "money": 140,
+      "date": "2022-03-11 04:08:43",
+      "userFor": "bouns"
+    },
+    {
+      "id": 15,
+      "type": "green",
+      "money": 65,
+      "date": "2022-09-15 07:33:42",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 16,
+      "type": "pay",
+      "money": -38,
+      "date": "2018-03-06 12:49:55",
+      "userFor": "salary"
+    },
+    {
+      "id": 17,
+      "type": "pay",
+      "money": -24,
+      "date": "2022-03-28 05:40:32",
+      "userFor": "food"
+    },
+    {
+      "id": 18,
+      "type": "pay",
+      "money": -3,
+      "date": "2022-01-10 01:16:28",
+      "userFor": "drinks"
+    },
+    {
+      "id": 19,
+      "type": "green",
+      "money": 172,
+      "date": "2017-10-31 10:28:16",
+      "userFor": "drinks"
+    },
+    {
+      "id": 20,
+      "type": "green",
+      "money": -11,
+      "date": "2014-06-10 03:18:52",
+      "userFor": "drinks"
+    },
+    {
+      "id": 21,
+      "type": "green",
+      "money": 160,
+      "date": "2016-09-23 04:51:51",
+      "userFor": "salary"
+    },
+    {
+      "id": 22,
+      "type": "income",
+      "money": 299,
+      "date": "2015-11-05 11:42:30",
+      "userFor": "bouns"
+    },
+    {
+      "id": 23,
+      "type": "income",
+      "money": 167,
+      "date": "2016-05-02 11:48:24",
+      "userFor": "salary"
+    },
+    {
+      "id": 24,
+      "type": "income",
+      "money": -66,
+      "date": "2015-01-30 05:12:29",
+      "userFor": "drinks"
+    },
+    {
+      "id": 25,
+      "type": "green",
+      "money": 19,
+      "date": "2017-04-29 11:37:13",
+      "userFor": "bouns"
+    },
+    {
+      "id": 26,
+      "type": "pay",
+      "money": 113,
+      "date": "2016-07-28 12:24:04",
+      "userFor": "dessert"
+    },
+    {
+      "id": 27,
+      "type": "pay",
+      "money": 162,
+      "date": "2017-12-27 12:16:46",
+      "userFor": "food"
+    },
+    {
+      "id": 28,
+      "type": "green",
+      "money": 9,
+      "date": "2022-05-13 07:08:41",
+      "userFor": "bouns"
+    },
+    {
+      "id": 29,
+      "type": "income",
+      "money": -32,
+      "date": "2018-06-15 08:06:07",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 30,
+      "type": "green",
+      "money": 1,
+      "date": "2016-01-09 12:08:25",
+      "userFor": "salary"
+    },
+    {
+      "id": 31,
+      "type": "green",
+      "money": 264,
+      "date": "2020-03-05 08:09:31",
+      "userFor": "dessert"
+    },
+    {
+      "id": 32,
+      "type": "income",
+      "money": 32,
+      "date": "2016-10-06 08:31:33",
+      "userFor": "food"
+    },
+    {
+      "id": 33,
+      "type": "green",
+      "money": 214,
+      "date": "2014-02-15 05:56:22",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 34,
+      "type": "pay",
+      "money": 266,
+      "date": "2018-05-14 06:01:41",
+      "userFor": "food"
+    },
+    {
+      "id": 35,
+      "type": "income",
+      "money": 252,
+      "date": "2016-12-30 10:43:26",
+      "userFor": "bouns"
+    },
+    {
+      "id": 36,
+      "type": "green",
+      "money": 135,
+      "date": "2016-03-08 02:26:45",
+      "userFor": "salary"
+    },
+    {
+      "id": 37,
+      "type": "green",
+      "money": 51,
+      "date": "2014-04-12 05:18:32",
+      "userFor": "food"
+    },
+    {
+      "id": 38,
+      "type": "green",
+      "money": 65,
+      "date": "2015-09-21 06:52:19",
+      "userFor": "bouns"
+    },
+    {
+      "id": 39,
+      "type": "green",
+      "money": 128,
+      "date": "2019-10-22 02:13:25",
+      "userFor": "drinks"
+    },
+    {
+      "id": 40,
+      "type": "income",
+      "money": 157,
+      "date": "2023-10-31 07:18:49",
+      "userFor": "food"
+    },
+    {
+      "id": 41,
+      "type": "income",
+      "money": -83,
+      "date": "2021-04-01 11:31:12",
+      "userFor": "dessert"
+    },
+    {
+      "id": 42,
+      "type": "income",
+      "money": 98,
+      "date": "2019-06-12 10:16:06",
+      "userFor": "bouns"
+    },
+    {
+      "id": 43,
+      "type": "pay",
+      "money": -57,
+      "date": "2015-07-30 01:38:41",
+      "userFor": "salary"
+    },
+    {
+      "id": 44,
+      "type": "pay",
+      "money": 283,
+      "date": "2018-02-09 03:30:42",
+      "userFor": "drinks"
+    },
+    {
+      "id": 45,
+      "type": "income",
+      "money": 195,
+      "date": "2017-07-28 04:03:56",
+      "userFor": "salary"
+    },
+    {
+      "id": 46,
+      "type": "pay",
+      "money": 222,
+      "date": "2014-03-16 03:16:12",
+      "userFor": "food"
+    },
+    {
+      "id": 47,
+      "type": "income",
+      "money": 96,
+      "date": "2015-02-07 09:53:01",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 48,
+      "type": "green",
+      "money": 106,
+      "date": "2016-03-19 08:11:05",
+      "userFor": "dessert"
+    },
+    {
+      "id": 49,
+      "type": "green",
+      "money": -7,
+      "date": "2016-09-28 10:59:51",
+      "userFor": "dessert"
+    },
+    {
+      "id": 50,
+      "type": "income",
+      "money": 157,
+      "date": "2016-05-19 06:27:01",
+      "userFor": "dessert"
+    },
+    {
+      "id": 51,
+      "type": "income",
+      "money": 192,
+      "date": "2021-03-13 01:55:28",
+      "userFor": "bouns"
+    },
+    {
+      "id": 52,
+      "type": "pay",
+      "money": 16,
+      "date": "2016-07-31 12:58:06",
+      "userFor": "food"
+    },
+    {
+      "id": 53,
+      "type": "green",
+      "money": 289,
+      "date": "2020-01-11 08:22:24",
+      "userFor": "salary"
+    },
+    {
+      "id": 54,
+      "type": "pay",
+      "money": -38,
+      "date": "2017-11-25 06:50:17",
+      "userFor": "dessert"
+    },
+    {
+      "id": 55,
+      "type": "pay",
+      "money": 164,
+      "date": "2020-06-16 07:56:54",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 56,
+      "type": "green",
+      "money": 107,
+      "date": "2018-01-26 10:27:47",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 57,
+      "type": "green",
+      "money": 23,
+      "date": "2017-10-18 09:18:34",
+      "userFor": "bouns"
+    },
+    {
+      "id": 58,
+      "type": "green",
+      "money": 3,
+      "date": "2017-09-16 07:19:59",
+      "userFor": "salary"
+    },
+    {
+      "id": 59,
+      "type": "pay",
+      "money": -99,
+      "date": "2020-03-15 06:40:30",
+      "userFor": "food"
+    },
+    {
+      "id": 60,
+      "type": "pay",
+      "money": 295,
+      "date": "2020-12-17 03:15:51",
+      "userFor": "bouns"
+    },
+    {
+      "id": 61,
+      "type": "pay",
+      "money": 229,
+      "date": "2016-07-12 01:17:27",
+      "userFor": "food"
+    },
+    {
+      "id": 62,
+      "type": "green",
+      "money": 131,
+      "date": "2016-10-04 03:24:31",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 63,
+      "type": "income",
+      "money": -38,
+      "date": "2017-06-08 05:07:44",
+      "userFor": "drinks"
+    },
+    {
+      "id": 64,
+      "type": "pay",
+      "money": 300,
+      "date": "2019-12-28 12:03:17",
+      "userFor": "dessert"
+    },
+    {
+      "id": 65,
+      "type": "income",
+      "money": 87,
+      "date": "2020-11-10 01:38:12",
+      "userFor": "bouns"
+    },
+    {
+      "id": 66,
+      "type": "income",
+      "money": 292,
+      "date": "2018-12-01 03:17:42",
+      "userFor": "dessert"
+    },
+    {
+      "id": 67,
+      "type": "pay",
+      "money": 282,
+      "date": "2023-03-04 07:00:22",
+      "userFor": "drinks"
+    },
+    {
+      "id": 68,
+      "type": "green",
+      "money": 27,
+      "date": "2021-06-11 12:59:47",
+      "userFor": "bouns"
+    },
+    {
+      "id": 69,
+      "type": "pay",
+      "money": 210,
+      "date": "2023-03-15 12:15:58",
+      "userFor": "food"
+    },
+    {
+      "id": 70,
+      "type": "green",
+      "money": 275,
+      "date": "2020-11-07 01:14:32",
+      "userFor": "bouns"
+    },
+    {
+      "id": 71,
+      "type": "green",
+      "money": -94,
+      "date": "2021-02-16 01:38:52",
+      "userFor": "dessert"
+    },
+    {
+      "id": 72,
+      "type": "pay",
+      "money": -49,
+      "date": "2021-06-04 09:05:21",
+      "userFor": "dessert"
+    },
+    {
+      "id": 73,
+      "type": "green",
+      "money": 233,
+      "date": "2014-04-26 10:23:57",
+      "userFor": "bouns"
+    },
+    {
+      "id": 74,
+      "type": "pay",
+      "money": 275,
+      "date": "2019-05-29 05:37:14",
+      "userFor": "drinks"
+    },
+    {
+      "id": 75,
+      "type": "income",
+      "money": 95,
+      "date": "2018-12-07 07:50:34",
+      "userFor": "drinks"
+    },
+    {
+      "id": 76,
+      "type": "green",
+      "money": 175,
+      "date": "2018-10-14 12:07:07",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 77,
+      "type": "green",
+      "money": 108,
+      "date": "2022-06-16 02:17:01",
+      "userFor": "dessert"
+    },
+    {
+      "id": 78,
+      "type": "pay",
+      "money": -71,
+      "date": "2017-04-09 07:52:41",
+      "userFor": "food"
+    },
+    {
+      "id": 79,
+      "type": "pay",
+      "money": 300,
+      "date": "2018-05-10 03:15:51",
+      "userFor": "salary"
+    },
+    {
+      "id": 80,
+      "type": "green",
+      "money": 164,
+      "date": "2016-09-29 01:07:42",
+      "userFor": "bouns"
+    },
+    {
+      "id": 81,
+      "type": "income",
+      "money": -27,
+      "date": "2019-02-10 05:00:38",
+      "userFor": "drinks"
+    },
+    {
+      "id": 82,
+      "type": "pay",
+      "money": 193,
+      "date": "2018-11-13 10:52:30",
+      "userFor": "bouns"
+    },
+    {
+      "id": 83,
+      "type": "pay",
+      "money": -88,
+      "date": "2019-09-29 10:53:15",
+      "userFor": "food"
+    },
+    {
+      "id": 84,
+      "type": "income",
+      "money": 131,
+      "date": "2020-10-25 04:37:40",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 85,
+      "type": "green",
+      "money": 142,
+      "date": "2015-01-18 12:47:47",
+      "userFor": "food"
+    },
+    {
+      "id": 86,
+      "type": "green",
+      "money": 228,
+      "date": "2015-12-21 06:31:43",
+      "userFor": "drinks"
+    },
+    {
+      "id": 87,
+      "type": "pay",
+      "money": -38,
+      "date": "2021-06-01 09:02:37",
+      "userFor": "drinks"
+    },
+    {
+      "id": 88,
+      "type": "green",
+      "money": -27,
+      "date": "2015-06-11 03:14:44",
+      "userFor": "salary"
+    },
+    {
+      "id": 89,
+      "type": "green",
+      "money": 112,
+      "date": "2019-09-20 02:28:01",
+      "userFor": "drinks"
+    },
+    {
+      "id": 90,
+      "type": "pay",
+      "money": 103,
+      "date": "2014-05-05 01:40:03",
+      "userFor": "bouns"
+    },
+    {
+      "id": 91,
+      "type": "income",
+      "money": -80,
+      "date": "2020-06-03 09:21:20",
+      "userFor": "dessert"
+    },
+    {
+      "id": 92,
+      "type": "green",
+      "money": 254,
+      "date": "2015-12-23 07:12:50",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 93,
+      "type": "income",
+      "money": 53,
+      "date": "2022-03-21 01:08:12",
+      "userFor": "dessert"
+    },
+    {
+      "id": 94,
+      "type": "income",
+      "money": 278,
+      "date": "2021-07-04 09:10:17",
+      "userFor": "dessert"
+    },
+    {
+      "id": 95,
+      "type": "green",
+      "money": 105,
+      "date": "2018-07-13 09:49:05",
+      "userFor": "food"
+    },
+    {
+      "id": 96,
+      "type": "income",
+      "money": 80,
+      "date": "2021-01-16 01:28:01",
+      "userFor": "dessert"
+    },
+    {
+      "id": 97,
+      "type": "green",
+      "money": 203,
+      "date": "2019-12-10 11:17:03",
+      "userFor": "bouns"
+    },
+    {
+      "id": 98,
+      "type": "green",
+      "money": 289,
+      "date": "2017-07-21 05:24:07",
+      "userFor": "salary"
+    },
+    {
+      "id": 99,
+      "type": "green",
+      "money": -98,
+      "date": "2015-06-07 10:47:08",
+      "userFor": "salary"
+    },
+    {
+      "id": 100,
+      "type": "green",
+      "money": -7,
+      "date": "2021-07-02 01:20:02",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 101,
+      "type": "income",
+      "money": -15,
+      "date": "2015-08-10 03:42:53",
+      "userFor": "drinks"
+    },
+    {
+      "id": 102,
+      "type": "pay",
+      "money": 246,
+      "date": "2014-04-12 11:29:23",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 103,
+      "type": "income",
+      "money": -28,
+      "date": "2023-01-21 12:03:22",
+      "userFor": "drinks"
+    },
+    {
+      "id": 104,
+      "type": "pay",
+      "money": 149,
+      "date": "2018-04-29 11:41:00",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 105,
+      "type": "income",
+      "money": 225,
+      "date": "2019-04-05 03:15:58",
+      "userFor": "drinks"
+    },
+    {
+      "id": 106,
+      "type": "green",
+      "money": 217,
+      "date": "2023-07-13 05:57:56",
+      "userFor": "drinks"
+    },
+    {
+      "id": 107,
+      "type": "pay",
+      "money": 69,
+      "date": "2022-08-30 06:41:10",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 108,
+      "type": "green",
+      "money": -81,
+      "date": "2017-07-17 09:58:55",
+      "userFor": "bouns"
+    },
+    {
+      "id": 109,
+      "type": "income",
+      "money": 102,
+      "date": "2016-05-09 07:37:20",
+      "userFor": "dessert"
+    },
+    {
+      "id": 110,
+      "type": "pay",
+      "money": 218,
+      "date": "2021-02-06 06:54:59",
+      "userFor": "dessert"
+    },
+    {
+      "id": 111,
+      "type": "green",
+      "money": 296,
+      "date": "2016-06-21 03:20:09",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 112,
+      "type": "income",
+      "money": -92,
+      "date": "2014-04-25 04:00:13",
+      "userFor": "food"
+    },
+    {
+      "id": 113,
+      "type": "pay",
+      "money": 137,
+      "date": "2020-04-02 12:12:19",
+      "userFor": "drinks"
+    },
+    {
+      "id": 114,
+      "type": "pay",
+      "money": 213,
+      "date": "2022-12-13 06:05:51",
+      "userFor": "dessert"
+    },
+    {
+      "id": 115,
+      "type": "green",
+      "money": 258,
+      "date": "2017-10-24 11:31:19",
+      "userFor": "dessert"
+    },
+    {
+      "id": 116,
+      "type": "pay",
+      "money": 236,
+      "date": "2019-08-04 03:34:15",
+      "userFor": "drinks"
+    },
+    {
+      "id": 117,
+      "type": "pay",
+      "money": 275,
+      "date": "2022-01-04 05:42:42",
+      "userFor": "longdistance"
+    },
+    {
+      "id": 118,
+      "type": "pay",
+      "money": 17,
+      "date": "2019-01-14 04:31:56",
+      "userFor": "drinks"
     }
   ]
 }
