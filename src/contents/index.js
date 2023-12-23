@@ -5,7 +5,7 @@ export const billListData={
       name: '餐飲',
       list: [
         {type: 'food', name: '餐費'},
-        {type: 'drink', name: '酒水飲料'},
+        {type: 'drinks', name: '酒水飲料'},
         {type: 'dessert', name: '甜品零食'},
       ],
     },
