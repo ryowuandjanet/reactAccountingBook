@@ -53,7 +53,7 @@ export const billListData={
       list: [
         {type: 'salary', name: '工資'},
         {type: 'overtimepay', name: '加班'},
-        {type: 'bouns', name: '獎金'},
+        {type: 'bonus', name: '獎金'},
       ]
     },
     {

@@ -2,12 +2,13 @@ import { billListData } from "@/contents";
 import Icon from "@/components/Icon";
 import { Button, DatePicker, Input, NavBar } from "antd-mobile";
 import classNames from "classnames";
-import React from "react";
+import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "./index.scss";
 
 const New = () => {
   const navigate = useNavigate();
+  const [billType,setBillType] = useState('pay')
   return (
     <div className="keepAccounts">
       <NavBar className="nav" onBack={() => navigate(-1)}>
@@ -16,10 +17,18 @@ const New = () => {
 
       <div className="header">
         <div className="kaType">
-          <Button shape="rounded" className={classNames("selected")}>
+          <Button 
+            shape="rounded" 
+            className={classNames(billType === 'pay' ? "selected" : "")}
+            onClick={() => setBillType('pay')}
+          >
             支出
           </Button>
-          <Button shape="rounded" className={""}>
+          <Button 
+            shape="rounded" 
+            className={classNames(billType === 'income' ? "selected" : "")}
+            onClick={() => setBillType('income')}
+          >
             收入
           </Button>
         </div>
@@ -44,7 +53,7 @@ const New = () => {
       </div>
 
       <div className="kaTypeList">
-        {billListData["pay"].map((item) => {
+        {billListData[billType].map((item) => {
           return (
             <div className="kaType" key={item.type}>
               <div className="title">{item.name}</div>
